@@ -1,0 +1,256 @@
+.iphone-11-pro-x-1 {
+    background-color: var(--white);
+    height: 812px;
+    width: 375px;
+  }
+  
+  .iphone-11-pro-x-1 .overlap-group2 {
+    background-color: #000000;
+    height: 350px;
+    position: relative;
+  }
+  
+  .iphone-11-pro-x-1 .logo {
+    height: 25px;
+    left: 146px;
+    position: absolute;
+    top: 27px;
+    width: 84px;
+  }
+  
+  .iphone-11-pro-x-1 .wom {
+    color: var(--white);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-l);
+    font-weight: 900;
+    left: 0;
+    letter-spacing: 0;
+    position: absolute;
+    top: 0;
+  }
+  
+  .iphone-11-pro-x-1 .vector {
+    height: 22px;
+    left: 61px;
+    position: absolute;
+    top: 1px;
+    width: 22px;
+  }
+  
+  .iphone-11-pro-x-1 .search-bar {
+    background-color: var(--white);
+    border-radius: 9px;
+    height: 35px;
+    left: 38px;
+    position: absolute;
+    top: 79px;
+    width: 301px;
+  }
+  
+  .iphone-11-pro-x-1 .search-magnifier-1 {
+    height: 16px;
+    left: 8px;
+    overflow: hidden;
+    position: absolute;
+    top: 11px;
+    width: 16px;
+  }
+  
+  .iphone-11-pro-x-1 .vector-1 {
+    height: 17px;
+    left: -1px;
+    position: absolute;
+    top: -1px;
+    width: 17px;
+  }
+  
+  .iphone-11-pro-x-1 .mic-icon-1 {
+    height: 22px;
+    left: 270px;
+    overflow: hidden;
+    position: absolute;
+    top: 8px;
+    width: 22px;
+  }
+  
+  .iphone-11-pro-x-1 .overlap-group-1 {
+    height: 23px;
+    left: 4px;
+    position: relative;
+    width: 14px;
+  }
+  
+  .iphone-11-pro-x-1 .vector-2 {
+    height: 16px;
+    left: 2px;
+    position: absolute;
+    top: 0;
+    width: 10px;
+  }
+  
+  .iphone-11-pro-x-1 .vector-3 {
+    height: 14px;
+    left: 0;
+    position: absolute;
+    top: 9px;
+    width: 14px;
+  }
+  
+  .iphone-11-pro-x-1 .group-8 {
+    height: 153px;
+    left: 54px;
+    position: absolute;
+    top: 141px;
+    width: 267px;
+  }
+  
+  .iphone-11-pro-x-1 .categories-row-1 {
+    height: 69px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 267px;
+  }
+  
+  .iphone-11-pro-x-1 .category {
+    height: 69px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 67px;
+  }
+  
+  .iphone-11-pro-x-1 .ellipse-1 {
+    height: 40px;
+    left: 13px;
+    object-fit: cover;
+    position: absolute;
+    top: 9px;
+    width: 40px;
+  }
+  
+  .iphone-11-pro-x-1 .education {
+    left: 13px;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 51px;
+    width: 40px;
+  }
+  
+  .iphone-11-pro-x-1 .overlap-group {
+    height: 69px;
+    left: 67px;
+    position: absolute;
+    top: 0;
+    width: 133px;
+  }
+  
+  .iphone-11-pro-x-1 .entertainment {
+    left: 7px;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 51px;
+    width: 53px;
+  }
+  
+  .iphone-11-pro-x-1 .category-3 {
+    height: 69px;
+    left: 66px;
+    position: absolute;
+    top: 0;
+    width: 67px;
+  }
+  
+  .iphone-11-pro-x-1 .health {
+    left: 13px;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 51px;
+    width: 40px;
+  }
+  
+  .iphone-11-pro-x-1 .category-4 {
+    height: 69px;
+    left: 200px;
+    position: absolute;
+    top: 0;
+    width: 67px;
+  }
+  
+  .iphone-11-pro-x-1 .sports {
+    left: 13px;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 51px;
+    width: 40px;
+  }
+  
+  .iphone-11-pro-x-1 .categories-row-2 {
+    height: 69px;
+    left: 0;
+    position: absolute;
+    top: 84px;
+    width: 267px;
+  }
+  
+  .iphone-11-pro-x-1 .consumer-goods {
+    left: 13px;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 51px;
+    width: 40px;
+  }
+  
+  .iphone-11-pro-x-1 .gadgets {
+    left: 13px;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 51px;
+    width: 40px;
+  }
+  
+  .iphone-11-pro-x-1 .restaurants {
+    left: 11px;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 51px;
+    width: 45px;
+  }
+  
+  .iphone-11-pro-x-1 .tourism {
+    left: 13px;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 51px;
+    width: 40px;
+  }
+  
+  @import url("https://fonts.googleapis.com/css?family=Roboto:500,900");
+  
+  .screen a {
+    display: contents;
+    text-decoration: none;
+  }
+  
+  .container-center-horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    pointer-events: none;
+    width: 100%;
+  }
+  
+  .container-center-horizontal > * {
+    flex-shrink: 0;
+    pointer-events: auto;
+  }
+  
+  
